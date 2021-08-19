@@ -18,3 +18,8 @@
 	url = https://github.com/hoehleatsu/socialroulette
 	shallow = true
 	registered = true
+[submodule "quantileCI"]
+	path = quantileCI
+	url = https://github.com/hoehleatsu/quantileCI
+	shallow = true
+	registered = true
